@@ -1,4 +1,4 @@
-Final prokect for CS 251 fall 2023
+Final project for CS 251 fall 2023
 RESHAPE 
 
 <!---
